@@ -1,0 +1,2 @@
+# StudySync
+Educational Platform Website
